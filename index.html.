@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ANACONDA - Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 850px;
+            margin: 40px auto;
+            padding: 0 20px;
+            line-height: 1.7;
+            color: #222;
+        }
+        h1, h2 { color: #e87500; }
+        h1 { border-bottom: 2px solid #e87500; padding-bottom: 12px; }
+    </style>
+</head>
+<body>
+
+<h1>ANACONDA - Privacy Policy</h1>
+<p><strong>Last updated:</strong> November 17, 2026</p>
+
+<h2>1. Introduction</h2>
+<p>
+This Privacy Policy explains how ANACONDA, developed by panoramixIdeas,
+handles information when you use the game. ANACONDA is intended for a
+general audience, including children, teenagers and adults.
+</p>
+
+<h2>2. Information We Process</h2>
+
+<h3>Firebase Authentication</h3>
+<p>
+ANACONDA uses Firebase Authentication to create anonymous player accounts.
+A unique account identifier is generated to recognize your account and
+associate it with your game data.
+</p>
+
+<h3>Firebase Firestore</h3>
+<p>
+If you use the online leaderboard, the game may store your chosen nickname,
+anonymous account identifier, scores and completion times.
+</p>
+
+<h3>Firebase Analytics</h3>
+<p>
+Firebase Analytics may automatically collect usage and technical information,
+such as app interactions, device information, app version and diagnostic
+or usage events. This information helps us understand how the game is used
+and improve its functionality.
+</p>
+
+<h3>Google AdMob</h3>
+<p>
+ANACONDA uses Google AdMob to display advertisements. Depending on applicable
+settings and consent choices, Google and its advertising partners may process
+information such as device identifiers, IP address, advertising interactions
+and information used to deliver, limit or measure advertisements.
+</p>
+
+<h3>Google User Messaging Platform (UMP)</h3>
+<p>
+Google UMP is used to present applicable privacy and advertising consent
+choices to users.
+</p>
+
+<h3>Local Storage</h3>
+<p>
+The game uses Android DataStore to save game progress and best completion
+times locally on your device.
+</p>
+
+<h2>3. How Information Is Used</h2>
+<p>Information is processed to:
+</p>
+<ul>
+    <li>Provide anonymous player accounts.</li>
+    <li>Save and display leaderboard results.</li>
+    <li>Store game progress and completion times.</li>
+    <li>Understand game usage and improve performance.</li>
+    <li>Display and measure advertisements.</li>
+</ul>
+
+<h2>4. Third-Party Services</h2>
+<p>ANACONDA uses the following Google services:</p>
+<ul>
+    <li>Firebase Authentication</li>
+    <li>Firebase Cloud Firestore</li>
+    <li>Firebase Analytics</li>
+    <li>Google AdMob</li>
+    <li>Google User Messaging Platform (UMP)</li>
+</ul>
+<p>
+These services may process information according to their own privacy
+policies and terms.
+</p>
+<p>
+Google Privacy Policy:
+<a href="https://policies.google.com/privacy">
+https://policies.google.com/privacy</a>
+</p>
+
+<h2>5. Children's Privacy</h2>
+<p>
+ANACONDA is intended for users of all ages, including children and teenagers.
+We aim to comply with applicable child privacy and advertising requirements.
+Where required, appropriate advertising settings and consent mechanisms
+must be applied to protect younger users.
+</p>
+<p>
+The game does not ask children to provide personal contact information
+to play.
+</p>
+
+<h2>6. Sharing of Information</h2>
+<p>
+We do not sell personal information. Information may be processed by the
+Google services listed in this policy to provide authentication, leaderboard,
+analytics and advertising features.
+</p>
+
+<h2>7. Data Retention and Deletion</h2>
+<p>
+Game progress stored locally can be removed by clearing the app's data
+or uninstalling the game.
+</p>
+<p>
+Information associated with anonymous accounts and leaderboard entries
+may remain stored in Firebase until deleted. To request deletion of
+information associated with your account, contact us at the email below.
+</p>
+
+<h2>8. Data Security</h2>
+<p>
+We rely on the security features of the services we use and take reasonable
+steps to protect information. However, no method of electronic storage
+or transmission is completely secure.
+</p>
+
+<h2>9. Changes to This Policy</h2>
+<p>
+This Privacy Policy may be updated when the game, its services or applicable
+requirements change. The latest version will be published on this page.
+</p>
+
+<h2>10. Contact</h2>
+<p>
+<strong>Developer:</strong> panoramixIdeas<br>
+<strong>Email:</strong>
+<a href="mailto:panoramixIdeas@gmail.com">panoramixIdeas@gmail.com</a>
+</p>
+
+</body>
+</html>
